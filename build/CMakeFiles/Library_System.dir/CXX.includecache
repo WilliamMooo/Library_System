@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/96101/Desktop/Library_System/src/reader.cpp
+user.h
+C:/Users/96101/Desktop/Library_System/src/user.h
+sensitiveWords.h
+C:/Users/96101/Desktop/Library_System/src/sensitiveWords.h
+iostream
+-
+cstring
+-
+string
+-
+iomanip
+-
+fstream
+-
+

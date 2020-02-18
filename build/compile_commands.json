@@ -1,0 +1,42 @@
+[
+{
+  "directory": "C:/Users/96101/Desktop/Library_System/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/Library_System.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\Library_System.dir\\src\\Email.cpp.obj -c C:\\Users\\96101\\Desktop\\Library_System\\src\\Email.cpp",
+  "file": "C:/Users/96101/Desktop/Library_System/src/Email.cpp"
+},
+{
+  "directory": "C:/Users/96101/Desktop/Library_System/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/Library_System.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\Library_System.dir\\src\\Index.cpp.obj -c C:\\Users\\96101\\Desktop\\Library_System\\src\\Index.cpp",
+  "file": "C:/Users/96101/Desktop/Library_System/src/Index.cpp"
+},
+{
+  "directory": "C:/Users/96101/Desktop/Library_System/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/Library_System.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\Library_System.dir\\src\\IndexTable.cpp.obj -c C:\\Users\\96101\\Desktop\\Library_System\\src\\IndexTable.cpp",
+  "file": "C:/Users/96101/Desktop/Library_System/src/IndexTable.cpp"
+},
+{
+  "directory": "C:/Users/96101/Desktop/Library_System/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/Library_System.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\Library_System.dir\\src\\Sensitive_Word.cpp.obj -c C:\\Users\\96101\\Desktop\\Library_System\\src\\Sensitive_Word.cpp",
+  "file": "C:/Users/96101/Desktop/Library_System/src/Sensitive_Word.cpp"
+},
+{
+  "directory": "C:/Users/96101/Desktop/Library_System/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/Library_System.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\Library_System.dir\\src\\admin.cpp.obj -c C:\\Users\\96101\\Desktop\\Library_System\\src\\admin.cpp",
+  "file": "C:/Users/96101/Desktop/Library_System/src/admin.cpp"
+},
+{
+  "directory": "C:/Users/96101/Desktop/Library_System/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/Library_System.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\Library_System.dir\\src\\main.cpp.obj -c C:\\Users\\96101\\Desktop\\Library_System\\src\\main.cpp",
+  "file": "C:/Users/96101/Desktop/Library_System/src/main.cpp"
+},
+{
+  "directory": "C:/Users/96101/Desktop/Library_System/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/Library_System.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\Library_System.dir\\src\\reader.cpp.obj -c C:\\Users\\96101\\Desktop\\Library_System\\src\\reader.cpp",
+  "file": "C:/Users/96101/Desktop/Library_System/src/reader.cpp"
+},
+{
+  "directory": "C:/Users/96101/Desktop/Library_System/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/Library_System.dir/includes_CXX.rsp -g   -std=gnu++17 -o CMakeFiles\\Library_System.dir\\src\\user.cpp.obj -c C:\\Users\\96101\\Desktop\\Library_System\\src\\user.cpp",
+  "file": "C:/Users/96101/Desktop/Library_System/src/user.cpp"
+}
+]
